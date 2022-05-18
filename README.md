@@ -1,2 +1,2 @@
 # simple_shell
-alx group project
+alx team project
